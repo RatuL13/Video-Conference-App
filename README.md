@@ -1,4 +1,4 @@
-# <p align ="center" >Videozen/p>
+# <p align ="center" >Videozen</p>
 ## <p align ="center" >Meet, chat, call, and collaborate in just one place.</p>
 
 <p align ="center" ><img src="https://i.imgur.com/TmY0Fp9.jpg" height="350px" alt="Homepage"/></p>
